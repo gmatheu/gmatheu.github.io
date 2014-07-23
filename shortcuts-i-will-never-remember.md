@@ -8,6 +8,8 @@ title: Atajos...
 ---
 ## Bash
 
+`Ctrl-p Ctrl-n` navega histórico de comandos hacia atrás o adelante
+
 `Ctrl-a Ctrl-e` cursor al comienzo/final de línea
 
 `Ctrl-b Ctrl-f` cursor atrás/adelante
@@ -28,7 +30,7 @@ title: Atajos...
 
 `Ctrl-z` manda el proceso a segundo plano/suspende
 
-`!! !!<comando>` ejecuta comando anterior o comenzando con <comando>
+`!! !!<comando>` muestra comando anterior o comenzando con <comando>
 
 `^reemplaza^por` reemplaza _reemplaza_ con _por_ en el comando anterior
 
