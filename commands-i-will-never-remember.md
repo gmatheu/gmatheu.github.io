@@ -45,4 +45,7 @@ Accediendo via __telnet__ o __redis-cli__
 
 `lsof -i TCP` procesos que abrieron puertos TCP
 
+`fc` abre el último comando en el editor y al guardar lo ejecuta
+
+`fc -nl -1` muestra último comando
 
