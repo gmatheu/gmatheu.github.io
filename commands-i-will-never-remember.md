@@ -49,3 +49,11 @@ Accediendo via __telnet__ o __redis-cli__
 
 `fc -nl -1` muestra último comando
 
+`strace`
+> Muestra las __system calls__ (man 2) que ejecuta un comando o proceso
+
+`ldd`
+> Muestra dependencias de librerías (shared libraries)
+
+`info`
+> Ayuda de comandos. Similar a __man__
