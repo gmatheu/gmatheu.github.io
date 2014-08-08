@@ -75,3 +75,22 @@ carpeta de archivo actual (vía [Ctr-p](https://github.com/kien/ctrlp.vim))
 ## Sublime
 
 `Ctrl-k + Ctrl-b` esconde/Muestra barra lateral
+
+
+---
+## IntelliJ Idea (+13)
+
+`Alt+j`
+> Selecciona próxima ocurrencia del texto seleccionado
+
+`Ctrl+Alt+Shift+j`
+> Selecciona todas las ocurrencias del texto seleccionado
+
+`Alt+Shift+Click`
+> Multiple cursores
+
+`Ctrl+p`
+> Muestra parámetros
+
+`Alt+Shift+Ins`
+> Modo selección columnas
