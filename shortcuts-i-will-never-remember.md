@@ -94,3 +94,10 @@ carpeta de archivo actual (vía [Ctr-p](https://github.com/kien/ctrlp.vim))
 
 `Alt+Shift+Ins`
 > Modo selección columnas
+
+
+---
+## Unity
+
+`Ctrl+Alt+Tab`
+> Muestra tareas en todos las areas de trabajo
