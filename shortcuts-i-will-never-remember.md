@@ -80,6 +80,9 @@ carpeta de archivo actual (vía [Ctr-p](https://github.com/kien/ctrlp.vim))
 ---
 ## IntelliJ Idea (+13)
 
+`Ctrl+Alt+A`
+> Add en git
+
 `Alt+j`
 > Selecciona próxima ocurrencia del texto seleccionado
 
