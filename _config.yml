@@ -1,21 +1,26 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Notas de GMatheu
 tagline:          ''
 description:      '<br/><p>Notas y cosas que nunca me voy a acordar por <a href="https://twitter.com/gmatheu" target="_blank">@gmatheu</a>.</p>'
 url:              http://gmatheu.github.io
+baseurl:          /
 
 author:
   name:           'Gonzalo Matheu'
   url:            https://twitter.com/gmatheu
 
 paginate:         5
+
+# Custom vars
+version:          2.1.0
 
 github:
   repo:           https://github.com/gmatheu/gmatheu.github.io
