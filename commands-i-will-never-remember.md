@@ -9,6 +9,7 @@ title: Comandos...
 ## Git
 
 `git branch --merged | xargs git branch -d` Borrar branches no mergeados
+`git revert -m 1 <sha-1-del-merge>` Revertir merge
 
 ---
 ## Memcached
@@ -40,6 +41,12 @@ Accediendo via __telnet__ o __redis-cli__
 
 ---
 ## Otros
+
+`proxytunnel -p proxy-server:3128 -d www.google.com:443 -a 7000`
+> Tunel al host usando un proxy y levanta un cliente en el puerto 7000
+
+`openssl s_client -connect localhost:7000 -ssl3`
+> conecta al servidor usando la versión de SSL/TLS configurada
 
 `netstat -lnp` procesos con conexiones abiertas
 
