@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Haz tu propio paquete deb
+title: Haz tu propio paquete deb (DRAFT)
 ---
+
 Alguna vez te preguntaste como se crean los paquetes **deb**?
 
 Mmm... no? Entonces el post no es para vos.
