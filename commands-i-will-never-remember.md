@@ -42,6 +42,9 @@ Accediendo via __telnet__ o __redis-cli__
 ---
 ## Otros
 
+`cat /proc/<PID>/cmdline`
+> Muestra comando usado para lanzar procso
+
 `proxytunnel -p proxy-server:3128 -d www.google.com:443 -a 7000`
 > Tunel al host usando un proxy y levanta un cliente en el puerto 7000
 
