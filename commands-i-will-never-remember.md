@@ -43,6 +43,9 @@ Accediendo via __telnet__ o __redis-cli__
 ---
 ## Otros
 
+`cut -d ' ' -f 1`
+> Imprime la primera columna, separada por espacios
+
 `cat /proc/<PID>/cmdline`
 > Muestra comando usado para lanzar procso
 
