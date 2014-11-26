@@ -10,6 +10,7 @@ title: Comandos...
 
 `git branch --merged | xargs git branch -d` Borrar branches no mergeados
 `git revert -m 1 <sha-1-del-merge>` Revertir merge
+`git clone --depth X URL` Clona limitando la cantidad de historia
 
 ---
 ## Memcached
