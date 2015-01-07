@@ -49,6 +49,8 @@ Todos prefijados con __prefix__, en mi caso `Ctrl-B`
 
 Usando [dot_vim](https://github.com/mutewinter/dot_vim) con `,` como  __Leader__.
 
+`Ctrl-o + <cmd>` en modo inserción, ejecuta comando sin salir del modo.
+
 `Ctrl-r + k` pega registro __k__ en modo inserción.
 
 `"kyy` y `"kp` copia/pega línea en/de registro __k__.
