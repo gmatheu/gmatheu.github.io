@@ -49,6 +49,12 @@ Todos prefijados con __prefix__, en mi caso `Ctrl-B`
 
 Usando [dot_vim](https://github.com/mutewinter/dot_vim) con `,` como  __Leader__.
 
+`zR`/`zM` abre/cierra todas zonas las colapsadas
+
+`za` abre/cierra zona colapsada
+
+`zf` o `zf%` colapsalínea/hasta elemento que cierra
+
 `q<letter> + <cmd> + q` `<number>@<letter>` `@@` Graba macro, ejecuta x veces, ejecuta último
 
 `=` autoindenta
